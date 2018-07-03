@@ -23,7 +23,7 @@ INPUT
 
 OUTPUT 
 
-- outdata - (1 x (N - windowSize - order*delay) values of permutation entropy within [0,1] since each sliding window contains windowSize ordinal patterns but uses in fact (windowSize + order*delay + 1) points).
+- outdata - (1 x (N - windowSize - order * delay) values of permutation entropy within [0,1] since each sliding window contains windowSize ordinal patterns but uses in fact (windowSize + order * delay + 1) points).
 
 
 INTERPRETATION 
@@ -41,7 +41,7 @@ EXAMPLE OF USE (with a plot):
 
 indata = rand( 1, 7777 ); % generate random data points 
 for i = 4000:7000 % generate change of data complexity 
-indata( i ) = 4*indata( i - 1 )*( 1 - indata( i - 1 ) ); 
+indata( i ) = 4 * indata( i - 1 )*( 1 - indata( i - 1 ) ); 
 end 
 delay = 1; % delay 1 between points in ordinal patterns (successive points) 
 order = 3; % order 3 of ordinal patterns (4-points ordinal patterns) 
