@@ -10,6 +10,7 @@ computes efficiently [1] values of permutation entropy [2] for orders=1...8 of o
 NOTES 
 
 1 Order of ordinal patterns is defined as in [1,3,7,8], i.e. order = n-1 for n defined as in [2] 
+
 2 The values of permutation entropy are normalised by log((order+1)!) so that they are from [0,1] as proposed in the original paper [2].
 
 
