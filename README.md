@@ -71,7 +71,6 @@ grid on; title( 'Values of permutation entropy' );
 
 linkaxes( [ ax1, ax2 ], 'x' );
 
-[Permutation entropy of epileptic time series](PE.png)
 
 CHOICE OF ORDER OF ORDINAL PATTERNS 
 
