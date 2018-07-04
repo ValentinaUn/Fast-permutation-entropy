@@ -34,8 +34,9 @@ The larger the values of permutation entropy (in the range from 0 to 1) are, the
 
 CITING THE CODE 
 
-[a] Unakafova, V.A., Keller, K., 2013. Efficiently measuring complexity on the basis of real-world data. Entropy, 15(10), 4392-4415. 
-[b] Unakafova, Valentina (2015). Fast permutation entropy (www.mathworks.com/matlabcentral/fileexchange/44161-permutation-entropy--fast-algorithm-), MATLAB Central File Exchange. Retrieved Month Day, Year.
+- Unakafova, V.A., Keller, K., 2013. Efficiently measuring complexity on the basis of real-world data. Entropy, 15(10), 4392-4415. 
+
+- Unakafova, Valentina (2015). Fast permutation entropy (www.mathworks.com/matlabcentral/fileexchange/44161-permutation-entropy--fast-algorithm-), MATLAB Central File Exchange. Retrieved Month Day, Year.
 
 
 EXAMPLE OF USE (with a plot): 
