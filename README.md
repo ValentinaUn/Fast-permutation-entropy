@@ -1,6 +1,7 @@
 # Fast-permutation-entropy
 Efficiently computing values of permutation entropy from 1D time series in sliding windows
 
+![Permutation entropy](https://raw.githubusercontent.com/ValentinaUn/Fast-permutation-entropy/master/PE.png)
 
 function outdata = PE( indata, delay, order, windowSize ) 
 
